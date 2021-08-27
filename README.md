@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mljuba
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming and everything about IT
 - 🌱 I’m currently learning python, AWS, docker
 - 💞️ I’m looking to collaborate on python, AWS, docker apps and activities
 - 📫 How to reach me use mail.
